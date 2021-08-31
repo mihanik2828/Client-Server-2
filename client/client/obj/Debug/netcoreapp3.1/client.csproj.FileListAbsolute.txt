@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\client\client\bin\Debug\netcoreapp3.1\client.exe
+C:\Users\user\source\repos\client\client\bin\Debug\netcoreapp3.1\client.deps.json
+C:\Users\user\source\repos\client\client\bin\Debug\netcoreapp3.1\client.runtimeconfig.json
+C:\Users\user\source\repos\client\client\bin\Debug\netcoreapp3.1\client.runtimeconfig.dev.json
+C:\Users\user\source\repos\client\client\bin\Debug\netcoreapp3.1\client.dll
+C:\Users\user\source\repos\client\client\bin\Debug\netcoreapp3.1\client.pdb
+C:\Users\user\source\repos\client\client\obj\Debug\netcoreapp3.1\client.csprojAssemblyReference.cache
+C:\Users\user\source\repos\client\client\obj\Debug\netcoreapp3.1\client.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\client\client\obj\Debug\netcoreapp3.1\client.AssemblyInfo.cs
+C:\Users\user\source\repos\client\client\obj\Debug\netcoreapp3.1\client.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\client\client\obj\Debug\netcoreapp3.1\client.dll
+C:\Users\user\source\repos\client\client\obj\Debug\netcoreapp3.1\client.pdb
+C:\Users\user\source\repos\client\client\obj\Debug\netcoreapp3.1\client.genruntimeconfig.cache
